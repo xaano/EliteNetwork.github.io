@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite Network | Socials</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            color: #333;
+        }
+        .social-links {
+            list-style-type: none;
+            padding: 0;
+        }
+        .social-links li {
+            display: inline-block;
+            margin: 10px;
+        }
+        .social-links a {
+            text-decoration: none;
+            color: white;
+            background-color: #0073e6;
+            padding: 10px 20px;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .social-links a:hover {
+            background-color: #005bb5;
+        }
+        footer {
+            margin-top: 50px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Elite Network Socials</h1>
+    
+    <ul class="social-links">
+        <li><a href="https://www.tiktok.com/@weioveghost" target="_blank">TikTok</a></li>
+        <li><a href="https://discord.gg/VjBmxuytfh" target="_blank">Discord</a></li>
+        <li><a href="https://discord.gg/TgnugGKzvH" target="_blank">Discord</a></li>
+        <li><a href="https://www.instagram.com/xeno118_/" target="_blank">Instagram</a></li>
+        <li><a href="https://www.roblox.com/users/1707959616/profile" target="_blank">Roblox</a></li>
+    </ul>
+
+    <footer>
+        <p>© 2024 Your Name. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
